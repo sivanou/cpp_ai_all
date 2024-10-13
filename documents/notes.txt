@@ -1,0 +1,6 @@
+CPP
+
+Compile cpp file: g++ helloworld.cpp -Wall -std=c++20
+helloworld.cpp - file name.
+Run compiled program: ./a.out
+Results will be in terminal.
